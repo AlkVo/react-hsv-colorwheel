@@ -1,15 +1,14 @@
 # react-hsv-colorwheel
-a react hsv color wheel
 
+A react hsv color wheel.
 
 # Devolopment
+
 `npm start`
 
-
-
-
 # Other
-## Use functional component and typescript
 
-Change based on https://github.com/ubcent/react-circular-color
+- Functional component
+- Typescript
 
+Change hue wheel based on https://github.com/ubcent/react-circular-color
